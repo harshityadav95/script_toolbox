@@ -9,5 +9,5 @@ if [ -n "$PID" ]; then
   kill -9 $PID
   echo "Process killed."
 else
-  echo "No process running on port 8081."
+  echo "No process running on port 8501."
 fi
